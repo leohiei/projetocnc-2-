@@ -12,6 +12,8 @@ Demonstra a usinagem de uma peça com **desbaste interno** utilizando o **ciclo 
 
 ## 📐 Desenho Técnico da Peça
 
+![Desenho Técnico](desenho.png)
+
 A peça apresenta:
 
 * Diâmetro externo: **Ø100 mm**
@@ -22,8 +24,6 @@ A peça apresenta:
   * Externo: **1.5x45°**
 * Comprimento total: **70 mm**
 * Região de usinagem: **50 mm**
-
-![Desenho Técnico](./Captura%20de%20tela%202025-07-29%20145955.png)
 
 ---
 
