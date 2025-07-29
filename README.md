@@ -1,4 +1,10 @@
 # 🛠️ Projeto CNC – Desbaste Interno com G71
+**Autor:** Leonardo N. Duarte  
+📧 nevesduartel@gmail.com 
+
+---
+
+## 🎯 Objetivo
 
 Demonstra a usinagem de uma peça com **desbaste interno** utilizando o **ciclo G71** em um torno CNC. O projeto tem como objetivo demonstrar o uso de ciclos fixos, compensações e controle de avanço com base em um desenho técnico mecânico.
 
