@@ -53,15 +53,6 @@ N80 G71 P90 Q160 U-1 W0.2 F0.2
 
 ---
 
-## 💡 Objetivos do Projeto
-
-* Simular e validar o ciclo G71 para perfis internos
-* Usar comandos de compensação e limites de rotação
-* Aplicar boas práticas de programação CNC
-* Incluir projeto no portfólio DevOps/SecOps com foco em automação de manufatura
-
----
-
 ## ⚙️ Pré-requisitos
 
 * Torno CNC com controle **Fanuc** ou compatível
