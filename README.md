@@ -72,3 +72,8 @@ N80 G71 P90 Q160 U-1 W0.2 F0.2
 | N220–N240 | Finalização e retorno ao ponto zero |
 
 ---
+![Demonstração](demo.gif)
+
+
+---
+O código G completo utilizado neste projeto está disponível neste repositório. Acesse o arquivo [programa-completo.gcode](programa-completo.gcode) para mais detalhes.
